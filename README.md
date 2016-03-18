@@ -1,5 +1,5 @@
 # run_pfam_searching
-This script is developed by Ginsea Chen of CATAS
+This script is developed by Ginsea Chen of CATAS \n
 You can use this script to perform pfam database searching and count the searching results
 You need to install pfamscan.pl and HMMSCAN before you using this script
 You can edit pfam.properties file for sumbitting some information about script using, such as DB represent the location of pfam database
